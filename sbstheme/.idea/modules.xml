@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../sbadmin-django-master/.idea/sbadmin-django-master.iml" filepath="$PROJECT_DIR$/../../sbadmin-django-master/.idea/sbadmin-django-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sbstheme.iml" filepath="$PROJECT_DIR$/.idea/sbstheme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../demo/warehouse/.idea/warehouse.iml" filepath="$PROJECT_DIR$/../../demo/warehouse/.idea/warehouse.iml" />
+    </modules>
+  </component>
+</project>
